@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep  7 17:03:09 2022
-
-@author: kolhe
-"""
-
 import flask
 import os
 from flask import send_from_directory
